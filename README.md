@@ -6,3 +6,7 @@ All sensitive information has been replaced with "XXXXXXX".
 This project is built with the Vue.js framework. Front end styling is created by Bootstrap and Skeleton.css.
 
 Packaged with Webpack for deployment.
+
+---------------
+
+View in production: https://coursesearch.cvtc.edu/
